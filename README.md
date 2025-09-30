@@ -9,4 +9,6 @@ They are:\
 Group_7_Perceptron_PredictedOutputs.csv\
 Group_7_Adaline_PredictedOutputs.csv\
 Group_7_LogisticRegression_PredictedOutputs.csv\
-Group_7_SVM_PredictedOutputs.csv
+Group_7_SVM_PredictedOutputs.csv\
+
+*Note: In data preprocessing, we removed data with missing values because there was plenty of clean data. Therefore, our output files have 6005 predictions instead of 6513.*
